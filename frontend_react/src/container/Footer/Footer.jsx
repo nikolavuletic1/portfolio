@@ -97,8 +97,8 @@ const Footer = () => {
           className="app__header-circles footer-position "
         >
           <div className='circle-cmp app__flex fotter_circle-position'>
-            <h1 className='p-text' style={{ textAlign: 'center', fontSize: '1.3rem' }}>Or Call</h1>
-            <h1 className='p-text' style={{ textAlign: 'center', fontSize: '1.3rem' }}>Me</h1>
+            <h1 className='p-text' style={{ textAlign: 'center' }}>Or Call</h1>
+            <h1 className='p-text' style={{ textAlign: 'center' }}>Me</h1>
 
           </div>
           <div className='circle-cmpf overide-footer app__flex blue'>
