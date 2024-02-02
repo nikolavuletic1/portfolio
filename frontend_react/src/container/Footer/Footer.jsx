@@ -103,7 +103,7 @@ const Footer = () => {
           </div>
           <div className='circle-cmpf overide-footer app__flex blue'>
             <img className='circle-cmpf' alt='PhoneIcon' src={PhoneIcon} />
-            <h1 className='p-text blue'>+381 (66) 10 10 30</h1>
+            <h1 className='p-text-footer blue'>+381 (66) 10 10 30</h1>
           </div>
         </motion.div>
       </div>

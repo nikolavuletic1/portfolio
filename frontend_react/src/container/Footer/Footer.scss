@@ -254,7 +254,28 @@
     @media screen and (min-width: 2000px) {
       font-size: 1.75rem;
     }
+    
 }
+
+.p-text-footer {
+  color: var(--secondary-color);
+  transition: all 1s ease-in-out;
+  background: transparent;
+  font-size: 0.8rem;
+    text-align: left;
+    color: var(--secondary-color);
+    line-height: 1.5;
+    
+    @media screen and (max-width: 390px) {
+      font-size: 0.7rem;    
+    }
+  
+    @media screen and (min-width: 2000px) {
+      font-size: 1.75rem;
+    }
+    
+}
+
 
 @keyframes pulse-blue {
   0% {
