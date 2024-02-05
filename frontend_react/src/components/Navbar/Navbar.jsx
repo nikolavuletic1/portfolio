@@ -123,6 +123,7 @@ import { Link } from 'react-scroll';
 import SocialMedia from '../SocialMedia';
 
 const Navbar = () => {
+    
     const [toggle, setToggle] = useState(false);
 
     return (
